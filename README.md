@@ -18,3 +18,9 @@ Project 7 [G. Sheets conditional formatting]: (https://docs.google.com/spreadshe
 Project 8 [Google sheets payroll]: (https://docs.google.com/spreadsheets/d/13LbdYk3V5ne1uzttlQGPeAHznRXbSPYI/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
 
 Project 9 [Google sheet sample]: (https://docs.google.com/spreadsheets/d/1TXh6FuWbC7uEshoAvxl0ujAyvV5WH9Bc/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 10[Grading google sheets]: (https://docs.google.com/spreadsheets/d/1Oa2QJBZGMFWyrmxLFSKslxHZuUmFFI21/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 11[Working with sub-totals]: (https://docs.google.com/spreadsheets/d/1rWDukEdgRw_kJOlnsbdm7plyTJS5uBLj/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 12[Random personal budget]: (https://docs.google.com/spreadsheets/d/1LBQDqfRuleX4-vSde8K7bnicHOyOFXE3oJxZm6Yf2cM/edit?usp=sharing)
