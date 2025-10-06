@@ -12,3 +12,5 @@ Project 4 [Google sheets/Contact building]: (https://docs.google.com/spreadsheet
 Project 5 [Exams grading]: (https://docs.google.com/spreadsheets/d/1AyVx71DKbSbWwTWQX1qHSEg-T9sVHoVp/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
 
 Project 6 [Mock results/grading]: (https://docs.google.com/spreadsheets/d/1I-YVhZMdkLlFsekrW0HIUfJU21vRGVlv/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 7 [Excel conditional formatting]: (https://docs.google.com/spreadsheets/d/175RWHzoLmQnpQcVae6aPJNQ3B2olgy40/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
