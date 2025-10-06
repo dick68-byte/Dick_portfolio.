@@ -13,4 +13,6 @@ Project 5 [Exams grading]: (https://docs.google.com/spreadsheets/d/1AyVx71DKbSbW
 
 Project 6 [Mock results/grading]: (https://docs.google.com/spreadsheets/d/1I-YVhZMdkLlFsekrW0HIUfJU21vRGVlv/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
 
-Project 7 [Excel conditional formatting]: (https://docs.google.com/spreadsheets/d/175RWHzoLmQnpQcVae6aPJNQ3B2olgy40/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+Project 7 [G. Sheets conditional formatting]: (https://docs.google.com/spreadsheets/d/175RWHzoLmQnpQcVae6aPJNQ3B2olgy40/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 8 [Google sheets payroll]: (https://docs.google.com/spreadsheets/d/13LbdYk3V5ne1uzttlQGPeAHznRXbSPYI/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
