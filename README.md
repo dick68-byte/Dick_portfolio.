@@ -26,3 +26,5 @@ Project 11[Working with sub-totals]: (https://docs.google.com/spreadsheets/d/1rW
 Project 12[Random personal budget]: (https://docs.google.com/spreadsheets/d/1LBQDqfRuleX4-vSde8K7bnicHOyOFXE3oJxZm6Yf2cM/edit?usp=sharing)
 
 Project 13[Webscrapping Korean restaurants in the US]: (https://docs.google.com/spreadsheets/d/14tUokF2BQZHNtnZnVU4E6KLKNQfExLjF/edit?usp=sharing&ouid=116559457388979260291&rtpof=true&sd=true)
+
+Project 14[Lead Generation; Auto parts shops in Kumasi, Ghana]: (https://1drv.ms/x/c/3c8e51973b6e465f/EeAZ2pJ2hk9BrjXKElafMm0BE7gPdWkKVRP-R45KjHatYA?e=odLUls)
